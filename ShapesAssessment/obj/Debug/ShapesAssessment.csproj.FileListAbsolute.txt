@@ -1,0 +1,27 @@
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\WindowsFormsApplication2\obj\Debug\ShapesAssessment.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\WindowsFormsApplication2\obj\Debug\ShapesAssessment.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\ShapesAssessment\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\ShapesAssessment\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\ShapesAssessment\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\ShapesAssessment\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\ShapesAssessment\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\ShapesAssessment\obj\Debug\ShapesAssessment.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\ShapesAssessment\obj\Debug\ShapesAssessment.Form1.resources
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\ShapesAssessment\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\ShapesAssessment\ShapesAssessment\obj\Debug\ShapesAssessment.csproj.GenerateResource.Cache
+C:\src\ShapesAssessment\ShapesAssessment\bin\Debug\WindowsFormsApplication2.exe.config
+C:\src\ShapesAssessment\ShapesAssessment\obj\Debug\WindowsFormsApplication2.exe
+C:\src\ShapesAssessment\ShapesAssessment\obj\Debug\WindowsFormsApplication2.pdb
+C:\src\ShapesAssessment\ShapesAssessment\bin\Debug\WindowsFormsApplication2.exe
+C:\src\ShapesAssessment\ShapesAssessment\bin\Debug\WindowsFormsApplication2.pdb
+C:\src\ShapesAssessment\ShapesAssessment\obj\Debug\ShapesAssessment.csprojResolveAssemblyReference.cache
+C:\src\ShapesAssessment\ShapesAssessment\obj\Debug\ShapesAssessment.Form1.resources
+C:\src\ShapesAssessment\ShapesAssessment\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\src\ShapesAssessment\ShapesAssessment\obj\Debug\ShapesAssessment.csproj.GenerateResource.Cache
